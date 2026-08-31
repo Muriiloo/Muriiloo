@@ -1,17 +1,10 @@
-# Hi 👋, I'm Murilo de Oliveira
+# Olá me chamo Murilo de Oliveira
 
-🚀 **Junior Software Developer | JavaScript & .NET**  
-🇧🇷 Brazil
+🚀 **Desenvolvedor | JavaScript & .NET**  
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
-
+Atualmente atuo no mercado desenvolvendo soluções para o setor **supermercadista**.  
+Trabalho desenvolvendo soluções escaláveis, seguindo boas práticas, como **Clean Architecture**.
 ---
-
-## 🌐 Where to find me
-
 <p align="left">
   <a href="https://github.com/Muriiloo">
     <img src="https://img.shields.io/badge/GitHub-Muriiloo-181717?style=for-the-badge&logo=github" />
@@ -20,21 +13,7 @@ I also create content and share knowledge on **software development, SaaS, and t
     <img src="https://img.shields.io/badge/Instagram-@MUU.OLIVEIRAA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
 ---
-
-## 🧠 What I do
-
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -57,17 +36,4 @@ I also create content and share knowledge on **software development, SaaS, and t
 ### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
