@@ -1,10 +1,11 @@
 # Olá me chamo Murilo de Oliveira
 
-🚀 **Desenvolvedor | JavaScript & .NET**  
+🚀 **Desenvolvedor | JavaScript & .NET**
 
-Atualmente atuo no mercado desenvolvendo soluções para o setor **supermercadista**.  
-Trabalho desenvolvendo soluções escaláveis, seguindo boas práticas, como **Clean Architecture**.
+Atualmente atuo no mercado desenvolvendo soluções para o setor supermercadista.  
+Trabalho desenvolvendo soluções escaláveis e testáveis, seguindo boas práticas.
 ---
+
 <p align="left">
   <a href="https://github.com/Muriiloo">
     <img src="https://img.shields.io/badge/GitHub-Muriiloo-181717?style=for-the-badge&logo=github" />
@@ -13,7 +14,7 @@ Trabalho desenvolvendo soluções escaláveis, seguindo boas práticas, como **C
     <img src="https://img.shields.io/badge/Instagram-@MUU.OLIVEIRAA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
----
+
 ## 🛠️ Tech Stack
 
 ### Frontend
